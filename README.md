@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] 🚀
+# 👋 Hi, I'm Mikhail 🚀
 
 A passionate **Software Engineering student** with a love for **web development**, **backend systems**, and the growing world of **machine learning**.  
 Currently building skills in **Python**, **Java**, and modern web technologies — one project at a time.
