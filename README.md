@@ -7,6 +7,8 @@
 
 ---
 
+![One Piece in the end way](https://github.com/Mikhail-Bogomolov/Mikhail-Bogomolov/blob/52931f3005450a4f5f3a91df5beb00e946bd0d17/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)
+
 ## 🔧 Что я умею
 
 - Написание кода на **Python** и **Java**
