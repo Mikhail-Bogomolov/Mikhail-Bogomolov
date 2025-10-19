@@ -1,77 +1,66 @@
-# 👋 Hi, I'm Mikhail 🚀
+# 👋 Привет! Я Mikhail 🚀
 
-A passionate **Software Engineering student** with a love for **web development**, **backend systems**, and the growing world of **machine learning**.  
-Currently building skills in **Python**, **Java**, and modern web technologies — one project at a time.
+Студент факультета программной инженерии, который увлечён **веб-разработкой** и **backend-системами**.  
+Сейчас активно учусь писать на **Python** и **Java**, а также развиваю интерес к **машинному обучению**.
 
-> 💡 *"Code is not just logic — it's creativity in action."*
-
----
-
-## 🔧 Tech Stack
-
-### Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Backend & Web
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF5A5F?style=for-the-badge&logo=restapi&logoColor=white)
-
-### Databases & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> 💡 *«Код — это не просто инструкции, это способ создавать вещи».*
 
 ---
 
-## 🌱 My Journey
+## 🔧 Что я умею
 
-I’m on a mission to become a **full-stack developer with ML expertise**, aiming to contribute to **big tech companies** where innovation meets impact.
-
-🔹 **Learning**: Python → Machine Learning → Scalable Backends  
-🔹 **Building**: Web apps, REST APIs, data-driven tools  
-🔹 **Dreaming**: One day, helping shape the future of software
-
----
-
-## 🛠️ Projects
-
-Here are some of my recent academic projects:
-
-- **[Web Task Manager](https://github.com/yourusername/web-task-manager)**  
-  A full-stack task manager built with Django + React. Features user auth, real-time updates, and responsive UI.
-
-- **[Java-based Library System](https://github.com/yourusername/library-system)**  
-  Object-oriented library management system using Java and JDBC. Includes book tracking and user roles.
-
-- **[ML Model for Sentiment Analysis](https://github.com/yourusername/sentiment-analysis)**  
-  A simple NLP model using Python and scikit-learn to classify text sentiment (learning phase).
-
-*(More projects coming soon!)*
+- Написание кода на **Python** и **Java**
+- Создание простых веб-приложений и API
+- Работа с базами данных (SQL)
+- Основы разработки backend-сервисов
+- Git, GitHub, базовые DevOps-практики
 
 ---
 
-## 📈 What’s Next?
+## 🌱 Моя цель
 
-- Deepen my understanding of **cloud platforms** (AWS / GCP)  
-- Build a personal portfolio site with modern frontend tech  
-- Contribute to open-source projects  
-- Learn **deep learning** and deploy ML models  
+Я стремлюсь стать сильным разработчиком в области **веба, backend и ML**, чтобы однажды работать в **большой технологической компании**.
 
----
-
-## ✉️ Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-📧 [your.email@example.com](mailto:your.email@example.com)
+Пока что строю фундамент:  
+🔹 Понимаю, как работает система от клиента до сервера  
+🔹 Учусь писать чистый, понятный и поддерживаемый код  
+🔹 Постоянно учусь и экспериментирую
 
 ---
 
-> 🎯 *“The best way to predict the future is to build it.”* — Alan Kay  
-> I’m building mine, one line of code at a time.
+## 🛠️ Мои проекты
+
+Вот несколько учебных проектов, которые я делал:
+
+- **[Менеджер задач](https://github.com/yourusername/task-manager)**  
+  Веб-приложение для управления задачами с авторизацией и списком дел.
+
+- **[Библиотека книг](https://github.com/yourusername/library-app)**  
+  Приложение на Java для учёта книг и пользователей.
+
+- **[Простая модель ML](https://github.com/yourusername/ml-project)**  
+  Учебный проект по классификации текстов с помощью Python.
+
+*(Буду добавлять новые проекты — скоро будет больше!)*
+
+---
+
+## 📈 Что дальше?
+
+- Глубже изучить **Spring Boot** и **Django**
+- Научиться работать с **базами данных** и **REST API**
+- Попробовать **облачные сервисы** (AWS, Docker)
+- Участвовать в open-source проектах
+- Подготовиться к собеседованиям в big tech
+
+---
+
+## ✉️ Связаться со мной
+ 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vickoup)  
+📧 [mikhail.bogomolov.vickoup@gmail.com](mailto:mikhail.bogomolov.vickoup@gmail.com)
+
+---
+
+> 🎯 *«Лучший способ предсказать будущее — создать его самому»*  
+> Я создаю своё будущее — один бит за раз.
